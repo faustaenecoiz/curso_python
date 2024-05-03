@@ -1,0 +1,44 @@
+hola susi
+el mundo espera
+jijijajajajajLinea0 agregada
+Linea1 agregada
+Linea2 agregada
+Linea3 agregada
+Linea4 agregada
+Linea5 agregada
+Linea6 agregada
+Linea0 agregada
+Linea1 agregada
+Linea2 agregada
+Linea3 agregada
+Linea4 agregada
+Linea5 agregada
+Linea6 agregada
+Linea0 agregada
+Linea1 agregada
+Linea2 agregada
+Linea3 agregada
+Linea4 agregada
+Linea5 agregada
+Linea6 agregada
+hola   fausta   te quedan 0 vidas 
+hola   fausta  te quedan 1 vidas 
+hola   rogelio  te quedan 2 vidas 
+hola   ramiro   te quedan 3 vidas 
+hola   fausta   te quedan 4 vidas 
+hola   pedro   te quedan 5 vidas 
+hola   raul   te quedan 6 vidas 
+hola   juan  te quedan 1 vidas 
+hola   ramon  te quedan 2 vidas 
+hola  pedro  te quedan 3 vidas 
+hola  pedro  te quedan 4 vidas 
+hola  tilo  te quedan 5 vidas 
+hola  rsmon  te quedan 6 vidas 
+hola  juan  te quedan 7 vidas 
+hola  pepin  te quedan -1 vidas 
+hola   pepis  te quedan 0 vidas 
+hola  pepa  te quedan 1 vidas 
+hola  pedro  te quedan 2 vidas 
+hola  peni  te quedan 3 vidas 
+hola  penny  te quedan 4 vidas 
+hola  pennie  te quedan 5 vidas 
